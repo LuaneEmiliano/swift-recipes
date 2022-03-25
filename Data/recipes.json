@@ -1,0 +1,908 @@
+[{
+        "name": " Arroz branco/Traditional rice",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "arrozbranco",
+        "description": "You are about to make the most delicious rice in the world!",
+        "prepTime": "5 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "25 minutes",
+        "servings": 8,
+        "ingredients": [
+            "2 cups long grain white rice",
+            "2 tablespoons minced onion",
+            "2 cloves garlic minced onion",
+            "2 tablespoons vegetable oil",
+            "1 teaspoon salt",
+            "4 cups hot water"
+        ],
+        "directions": [
+            "Heat the oil in a saucepan over medium heat. Cook the onion in the oil for one minute.",
+            "Stir in the garlic and cook until the garlic is golden brown. Add the rice and salt and cook and stir until the rice begins to brown.",
+            "Pour hot water over rice mixture and stir. Reduce heat to low, cover the saucepan, and allow to simmer until the water has been absorbed, 20 to 25 minutes."
+        ]
+    },
+    {
+        "name": "Açai Bowl",
+        "categories": "Meal",
+        "featured": true,
+        "image" : "açai",
+        "description": "This recipe is good to make and eat anytime of the day!",
+        "prepTime": "5 minutes",
+        "cookTime": "0 minutes",
+        "totalTime": "5 minutes",
+        "servings": 2,
+        "ingredients": [
+            "1 cup frozen mango chunks",
+            "1 cup frozen pineapple chunks",
+            "7 ounces frozen unsweetened acai pulp (such as Sambazon®)",
+            "3 tablespoons of guarana",
+            "1 teaspoon chia seeds",
+            "1 teaspoon agave nectar"
+        ],
+        "directions": [
+            "Place mango, pineapple, acai and lime juice in a blender, pulse until smooth and creamy.",
+            "Pour mixture into 2 bowls, sprinkle with shredded coconut and chia seeds. Drizzle with agave."
+        ]
+    },
+    {
+        "name": "Arroz Carreteiro/Wagnore's rice",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "arrozcarreteiro",
+        "description": "This dish dates back to the 1800s, I hope you can tasty a lit bit of brazil history in it.!",
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes",
+        "servings": 8,
+        "ingredients": [
+            "4 cups jasmine rice",
+            "2 thick slices bacon chopped or cubed",
+            "3 tablespoons olive oil",
+            "4 cups chopped or cubed leftover grilled beef",
+            "4 cloves garlic smashed",
+            "1 medium onion chopped",
+            "1 cup chopped green onions",
+            "1-2 cubes beef bouillon",
+            "salt",
+            "Grated parmesan for garnish",
+            "Fresh italian parsley"
+        ],
+        "directions": [
+            "If using jasmine rice, prior to cooking, rinse the dry rice with water in a mixing bowl, straining the water until it runs clear to remove any excessive starch. Drain well and reserve.",
+            "Render the bacon in the oil in a 4- to 6-quart cast-iron pot or Dutch oven over medium-high heat until golden brown. Add the beef, garlic, and onion, and sauté for 2 minutes, stirring constantly. Stir in the rice and sauté for 2 minutes, then add green onions, red pepper, beef bouillon, and water; add salt if needed. Bring to a boil and then reduce the heat to low. Cover and simmer for about 20 minutes, or until the rice has absorbed the water. If the water has been completely absorbed but the rice is still undercooked, add a bit more water and allow it to cook a little longer.",
+            "When the rice is cooked, turn off the heat and gently stir it with a spoon so that all the ingredients are well mixed. Cover the pot with a clean kitchen towel and let it rest for 2 to 3 minutes. Just before serving, garnish the rice with the parsley and Parmesan."
+        ]
+    },
+    {
+        "name": "Arroz Doce/Sweet rice",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "arrozdoce",
+        "description": "This is a traditional dessert or snack that is mostly eaten during the middle of the year!",
+        "prepTime": "5 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "30 minutes",
+        "servings": 6,
+        "ingredients": [
+            "1 cup white rice",
+            "2.5 cups whole milk",
+            "1 14oz can sweet condensed milk",
+            "5 whole cloves",
+            "1 vanilla bean or a teaspoon of vanilla extract",
+            "pinch of salt",
+            "1/4 cup  heavy cream",
+            "powdered cinnamon for serving optional"
+            
+        ],
+        "directions": [
+            "Add the rice to a medium pan, cover with 2 cups of water, and bring to a boil over high heat.",
+            " When the water boils, reduce the heat to low, cover and let simmer until the rice is cooked. This should take about 10 minutes. If your rice overcooks, it's OK. This recipe is very forgiving.",
+            "When the rice is cooked, add the sweet condensed milk, the milk, the spices and a pinch of salt, and stir to combine.",
+            " Cook over medium heat until the mixture thickens, about 15-20 minutes, stirring occasionally",
+            " Add the heavy cream and stir to combine, simmer another minute, and turn off the heat.",
+            "Fish for the whole spices, remove and discard them.",
+            "Serve warm with ground cinnamon, or as is"
+        ]
+    },
+    {
+        "name": "Picanha barbecue",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "picanha",
+        "description": "If you want to make a barbecue taht is known all over the world and it is also very simple, this is the perfect recipe for you!",
+        "prepTime": "30 minutes",
+        "cookTime": "2 hours",
+        "totalTime": "2/5 hours",
+        "servings": 6,
+        "ingredients": [
+            "2/3 lb. top sirloin cap",
+            "2 tablespoon of coarse salt",
+            "1 tablespoon of olive oil"
+        ],
+        "directions": [
+            "Rub beef with 2 tablespoon of coarse salt. Grill for about 5 to 6 minutes, turning them over at the halfway point, for rare doneness. When cooked, add remaining salt and brush with olive oil.",
+            "Grill spareribs on barbecue for about 5 to 6 minutes, turning them over at the halfway point, to brown meat."
+        ]
+    },
+    {
+        "name": "Brigadeiro/Fudge balls",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "brigadeiro",
+        "description": "This recipe is definitively the most loved by the brazilian people. We love it so much that we it as dessert, snack, or outdoor booster!",
+        "prepTime": "5 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "20 minutes",
+        "servings": 8,
+        "ingredients": [
+            "1 tablespoon butter",
+            "14 oz sweetened condensed milk",
+            "4 tablespoon of cocoa powder",
+            "1 cup chocolate sprinkle, as needed"
+            
+        ],
+        "directions": [
+            "In a pot over low heat, melt the butter, condensed milk, and cocoa powder, stirring continuously until you can see the bottom of the pot for 2-3 seconds when dragging a spatula through.",
+            "Pour onto a greased plate, then chill for 1 hour.",
+            "Shape and roll the chilled mixture into balls.",
+            "Roll the balls in chocolate sprinkles."
+
+        ]
+    },
+    {
+        "name": "Bolo de rolo/Rolled cake",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "boloderolo",
+        "description": "Bolo de rolo is a beloved fixture on the menus of most cafés, bakeries,restaurants, and even the airport in Brazil.!",
+        "prepTime": "20 minutes",
+        "cookTime": "60 minutes",
+        "totalTime": "1/2 hour",
+        "servings": 10,
+        "ingredients": [
+            "sticks plus 5 tablespoons (45 tablespoons) unsalted butter, at room temperature",
+            "3 cups plus 1 1/2 tablespoons sugar",
+            "9 large egg yolks, at room temperature",
+            "4 1/2 cups all-purpose flour, plus more to flour baking sheets",
+            "9 large egg whites, beaten to stiff peaks",
+            "28 ounces guava paste, chopped",
+            "3/4 cup plus 1 1/2 tablespoons water",
+            "1 1/2 tablespoons port wine (optional)",
+            "18 tablespoons granulated sugar, divided (for the topping)"
+        ],
+        "directions": [
+            "In a clean and dry bowl beat the egg whites till they double in volume. The texture of the beaten egg whites should be such that it forms stiff peaks. Reserve.",
+            "In a separate bowl, mix the sugar, the egg yolks and the butter till the mixture is pale yellow.",
+            "Now, add the yolks, vanilla extract and salt into the cake mixture one by one. Add the beaten egg whites, the sifted flour and fold into the roll mixture gently.",
+            "Divide the roll mixture in five and spread thinly into the shallow pans which should be lined with parchment. In a pre-heated oven(180 deg C), bake one cake at a time till very light golden.Do not overbake",
+            "In a clean kitchen towel turn out the warm baked cake. Trim the borders of the cake. Spread a layer of whatever filling you are using and wrap quickly, with the help of the towel. Repeat the same process, until the last layer.",
+            "After 20 minutes, unroll towel.Place the roll on a serving dish, slice and serve with a cup of cofee."
+        ]
+    },
+    {
+        "name": "Banana á milanesa/Fried banana",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "banana",
+        "description": "This is a very typical brazilian appertize that can be also eaten with the main dish, specially rice and beans!",
+        "prepTime": "15 minutes",
+        "cookTime": "3 minutes",
+        "totalTime": "18 minutes",
+        "servings": 10,
+        "ingredients": [
+            "1 cup All-purpose flour or whole wheat flour",
+            "1 cup Bread crumbs",
+            "5 Ripe but firm small bananas",
+            "3 Large eggs (beaten and mixed with 1 tsp water)"
+            
+        ],
+        "directions": [
+            "Peel the bananas, coat banana with all purpose flour, dip in eaten eggs and coat with bread crumbs.",
+            "Deep fry in hot oil until golden brown and crispy.",
+            "Place them on paper towels to drain excess oil",
+            "Serve hot"
+        ]
+    },
+    {
+        "name": "Broa de milho/Corn cake",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "broademilho",
+        "description": "This is a classic gradma recipe, that makes your soul warmer.You should try to make it.!",
+        "prepTime": "5 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "40 minutes",
+        "servings": 6,
+        "ingredients": [
+            "3 eggs",
+            "1 cup sugar",
+            "2 cups of corn meal",
+            "1 cup of milk",
+            "1 tsp baking powder",
+            "1 pinch of salt",
+            "Optional: either 1/2 cup shredded cheese or shredded coconut"
+        ],
+        "directions": [
+            "Preheat oven to 350F.",
+            "Mix all ingredients in blender and then pour in well oiled bundt cake form."
+            
+        ]
+    },
+        {
+        "name": "Beijinho/Coconut little kiss",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "beijinho",
+        "description": "Beijinho is a dessert that makes part of all the brazilians birthday parts and relax times shared with family and friends.!",
+        "prepTime": "5 minutes",
+        "cookTime": "20 minutes plus 2 hours in the freegie",
+        "totalTime": "2 hours and 25 minutes",
+        "servings": 10,
+        "ingredients": [
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 tablespoon butter",
+            "¼ cup sweetened flaked coconut",
+            "sweetened flaked coconut (for decor)"
+            
+        ],
+        "directions": [
+            "Bring milk and butter to a simmer in a saucepan over medium-low heat. Continue to cook, stirring often, until the milk has reduced to half and thickened, about 20 minutes. Remove from heat, stir in the 1/4 cup coconut, and allow to cool a bit before pouring into a buttered bowl. Chill in the refrigerator until cold, about 2 hours.",
+            "With buttered or oiled hands, form milk mixture into tablespoon-sized balls, and roll in coconut flakes. Stick a clove into each beijinho as decoration."
+            
+        ]
+    },
+        {
+        "name": "Bolo de cenoura/Carrot cake",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "bolodecenoura",
+        "description": "When you think in childhood, brazilian people always think of carrot cake.!",
+        "prepTime": "10 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes",
+        "servings": 16,
+        "ingredients": [
+            "3 eggs",
+            "1 cup sugar",
+            "1/2 cup vegetable oil",
+            "2 1/2 cups flour",
+            "1 tsp baking powder",
+            "1 pinch of salt",
+            "3 tablespoons cocoa for the chocolate glaze",
+            "2 tablespoons butter",
+            "1/4 cup milk",
+            "1/2 cup sugar"
+        ],
+        "directions": [
+            "Preheat oven to 375F.",
+          "In a blender combine eggs, sugar, oil, and carrots. Blend on high until all is combined and is a pureed mixture.",
+          "Combine the blended mixture with the flour in a bowl. Mix in the baking powder.",
+          "Pour batter into a cake pan and bake for about 30 minutes, or until a toothpick comes out dry.",
+          "For the chocolate glaze,Combine all ingredients in a saucepan and cook over medium heat until it begins to boil, stirring constantly. It should be thick enough to coat the back of a spoon.",
+          "When the cake is done let it cool. Once it is cool to touch, pour the chocolate glaze over it and let it harden a bit."
+        ]
+    },
+        {
+        "name": "Bolo de chocolate/Chocolate cake",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "bolodechocolate",
+        "description": "A brazilian classic and very easy to make chocolate cake.!",
+        "prepTime": "5 minutes",
+        "cookTime": "35 minutes",
+        "totalTime": "40 minutes",
+        "servings": 10,
+        "ingredients": [
+            "1 cup flour",
+            "1 cup buckweat flour",
+            "2/3 cup brown sugar",
+            "1/2 cup baking cocoa",
+            "2 tablespoon cornstarch",
+            "1 tsp baking powder",
+            "1 tablespoon valilla",
+            "2 tablespoon cold coffee",
+            "1/3 cup oil",
+            "1 cup milk"
+        ],
+        "directions": [
+            "Preheat oven to 350F.",
+            "Mix all the ingredients but the milk with electric beaters.",
+            "Heat the milk until it's almost boiling, then add it to the other ingredients beating well.",
+            "Bake it for 30 minutes."
+        ]
+    },
+    {
+        "name": "Bolo de laranja/Orange cake",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "bolodelaranja",
+        "description": "Bolo de laranja is a tradicional cake made with orange zest, it goes so well with a cup of coffee.!",
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes",
+        "servings": 8,
+        "ingredients": [
+            "5 eggs",
+            "1 cup sugar",
+            "1 cup flour",
+            "1/2 cup butter melted",
+            "1 tsp baking powder",
+            "Zest of an orange",
+            "Juice of 2 large oranges"
+        ],
+        "directions": [
+            "Preheat oven to 350F.",
+            "Whisk the egg yolks and sugar until the mixture is white, has tripled in size and is firm.",
+            "Mix the baking powder and the flour and add them to the egg yolks",
+            "Mix the melted butter, zest and juice of the oranges and add them.",
+            "Beat the egg whites until stiff and incorporate very gently with the previous mixture using a spatula. Be careful not to break the whites.",
+            "Pour the mixture into a ring mold pan (Savarin mold), previously buttered and floured and bake for 30 to 40 minutes.",
+            "For the syrup, In a saucepan, bring the juice of the 2 oranges and the sugar to a boil and cook for 1 minute.",
+            "Once the bolo de laranja is fully baked, unmold immediately on a rack and pour the syrup over.",
+            "Let it cool before serving."
+        ]
+    },
+    {
+        "name": "Bolo de fuba/Cormeal cake",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "bolodefuba",
+        "description": "In Brazil sweet cornmeal cake is a staple for breakfast or for an afternooon snack with coffee.!",
+        "prepTime": "10 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "60 minutes",
+        "servings": 8,
+        "ingredients": [
+            "2 eggs",
+            "1 cup sugar",
+            "1 cup corn meal",
+            "1 cup milk",
+            "1 tsp baking powder",
+            "1 pinch  salt",
+            "1/2 cup vegetable oil"
+        ],
+        "directions": [
+            "Preheat oven to 350F.",
+            "In medium mixing bowl, whisk together flour, cornmeal, baking powder and salt until thoroughly combined; set aside. In separate medium mixing bowl, whisk together sugar and eggs until eggs are pale yellow. Add vegetable oil, and then milk, whisking to combine. Add reserved flour mixture, whisking until smooth.",
+            "Pour batter into reserved pan. Bake cake until beginning to pull away on sides of pan and thin knife inserted into center comes out clean, about 30 minutes. Transfer to wire rack and let cake cool in pan for 10 minutes. Invert cake onto rack; remove pan and let cool completely."
+            
+        ]
+    },
+    {
+        "name": "Bolinho de chuva/Cinnamon raindrop",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "bolinhodechuva",
+        "description": "This is a perfect dessert/snack for a raining day that combine with hot chocolate or coffee makes your day feels just good.!",
+        "prepTime": "10 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "30 minutes",
+        "servings": 13,
+        "ingredients": [
+            "2/3 cup vegetable oil, for frying",
+            " 1 tablespoon cinnamon",
+            "2 eggs",
+            "1/2 cup plus 3 tablespoon sugar",
+            "2 cups all purpose flour",
+            "1/2 to 1 cup of buttermilk",
+            "1 tablespoon baking powder",
+            "1 teaspoon salt"
+        ],
+        "directions": [
+            "In a deep fryer or skillet, heat several inches of vegetable oil to 360 F.",
+            "In a small bowl, stir the cinnamon into 1/2 cup sugar and set aside",
+            "In another bowl, mix together the flour, salt, and 3 tablespoons sugar.",
+            "Stir in the eggs and 1/2 cup buttermilk with a wooden spoon. Add more buttermilk, slowly, until mixture has the consistency of a very thick cake batter.",
+            "Stir in the baking powder",
+            "Using two teaspoons (or a small cookie scoop), scoop a generous teaspoon of batter and carefully drop it into the oil, using the second spoon to help scrape the dough off of the first one.",
+            "Repeat with several more teaspoons, but do not overcrowd the doughnuts or they will stick together.",
+            "Cook the doughnuts, turning occasionally, until golden brown on all sides.",
+            "Remove doughnuts from the oil with a slotted spoon and drain briefly on paper towels.",
+            "Roll the doughnuts in the cinnamon sugar while still hot."
+        ]
+    },
+    {
+        "name": "Coxinha/Chicken crockets",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "coxinha",
+        "description": "Coxinha is nationally known as the best brazilian appertizer ever.!",
+        "prepTime": "70 minutes",
+        "cookTime": "30 minutes plus",
+        "totalTime": "1 hrs 40 minutes",
+        "servings": 12,
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "4 cloves garlic, minced",
+            "1 white onion, diced",
+            "2 cups chicken, cooked, shredded",
+            "½ teaspoon paprika, or cayenne pepperr",
+            "1 pinch of salt",
+            "3 tablespoons fresh parsley, chopped",
+            "For the dough you will need 1 tablespoon unsalted butter",
+            "2 cups whole milk",
+            "¼ cup chicken broth",
+            "2 cups all-purpose flour",
+            "4 oz cream cheese",
+            "1 egg",
+            "2 cups panko breadcrumbs",
+            "oil, for frying"
+        ],
+        "directions": [
+            "In a medium pot, heat olive oil, then sauté garlic and onions until soft and brown. Add shredded chicken, salt, and paprika (or cayenne pepper). Stir to incorporate.",
+            "Transfer mixture into a bowl, add cream cheese and parsley. Mix well",
+            "In the same pot, add butter, chicken broth, and milk. Bring to a boil. Stir in flour until dough is formed.",
+            "Transfer dough to a flat surface. Knead the dough while it is warm, but not hot.",
+            "Pinch a piece of dough, about the size of a large egg, and roll into a ball. Using your hands, flatten the dough and spoon filling into the center. Wrap the dough into a pear shape and make sure there aren’t any holes.",
+            "While heating a pot of oil to 350˚F/180˚C, dredge the dough in egg and panko, then deep-fry till golden brown and cooked through.",
+            "Drain on a towel, or wire rack and serve immediately then Enjoy it.!"
+            
+        ]
+    },
+    {
+        "name": "Cachorro Quente/Hot dog",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "cachorroquente",
+        "description": "If you think hot dog should be more than just bread with sausage, you should definitely try to make this recipe.!",
+        "prepTime": "10 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "25 minutes",
+        "servings": 4,
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1/2 teaspoon crushed red pepper ",
+            "1 yellow onion, diced ",
+            "1 green bell pepper, diced",
+            "1 pound ground sirloin",
+            "salt and freshly ground black pepper",
+            "2 cloves garlic, minced ",
+            "One 15-ounce can crushed tomatoes",
+            "4 jumbo hot dogs",
+            "4 large brat rolls",
+            "1/4 cup grated Parmesan",
+            "1 cup crispy bacon bits ",
+            "1 cup frozen peas, defrosted and slightly heated ",
+            "1 cup crispy shoestring potatoes",
+            "Yellow mustard, for drizzling"
+        ],
+        "directions": [
+            "In a large saute pan, heat the oil over medium heat. Add the crushed red pepper, onions and green peppers and sweat until the onions are translucent, about 8 minutes. Add the beef, season with salt and pepper and cook, breaking it up with a spoon, until no longer pink, about 8 minutes. Add the garlic and continue to cook for 1 minute. Add the crushed tomatoes, hot dogs and 1/2 cup water and cook until the sauce thickens, about 15 minutes.",
+           "For the hot dog build: On each fresh brat roll, place a hot dog, then some meat sauce, Parmesan, bacon bits, peas and shoestring potatoes. Top with a drizzle of yellow mustard."
+            
+        ]
+    },
+    {
+        "name": "Canjica/Hominy Pudding ",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "canjica",
+        "description": "Canjica is a Brazilian pudding-like dessert that is typically served during Brazilian winter festivals, which are in June.!",
+        "prepTime": "35 minutes",
+        "cookTime": "1hr 20 minutes",
+        "totalTime": "1hr 54 minutes",
+        "servings": 10,
+        "ingredients": [
+            "1 pound dried hominy",
+            "8 cups water",
+            "2 (14 ounce) cans coconut milk",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 cups milk",
+            "2 tablespoons white sugar, or to taste",
+            "3 (2 inch) sticks cinnamon sticks",
+            "½ teaspoon ground cinnamon, plus more for garnish",
+            "8 whole cloves",
+            "1 ¾ cups freshly grated coconut"
+        ],
+        "directions": [
+            "Soak the hominy in water for 30 minutes bebore you start to cook. Add the hominy to a pot and boil it over high heat. Reduce heat and simmer until hominy is soft, about 1 hour. Add coconut milk, condensed milk, regular milk, 2 tablespoons sugar, cinnamon sticks, 1/2 teaspoon ground cinnamon, and cloves. Cook over low heat until mixture has thickened, about 15 minutes.",
+            "Taste and sweeten with more sugar if needed. Stir in coconut. Ladle into serving bowls and sprinkle with cinnamon."
+            
+        ]
+    },
+    {
+        "name": "Canja de galinha/ Chicken soup",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "canjadegalinha",
+        "description": "This is a classic gradma recipe for cold or sick days, this is the kinda of recipe that is going to make your heart feels warmer.!",
+        "prepTime": "20 minutes",
+        "cookTime": "20 minutes",
+        "totalTime": "40 minutes",
+        "servings": 6,
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 medium yellow onion small diced",
+            "2 garlic cloves minced",
+            "10-1/2 ounces skinless and de-boned chicken breast cubed, 300 grams",
+            "3/4 cup raw long-grain rice rinsed",
+            "2 tablespoons dry white wine*",
+            "10 cups chicken broth",
+            "3/4 cup potato peeled and cubed",
+            "3/4 cup carrot peeled and cubed, fresh or frozen",
+            "3/4 cup peas* fresh or frozen",
+            "Salt and ground white pepper to taste",
+            "1 teaspoon dried thyme*",
+            "1 bay leaf *",
+            "4 - 6 eggs",
+            "1/4 cup fresh parsley chopped",
+            "Finely shredded Parmesan cheese to sprinkle * optional"
+        ],
+        "directions": [
+            "Heat a medium pot over medium-high heat, add the 2 tablespoons of olive oil and sauté the onion until translucent. Add the garlic and sauté for about 20 - 30 seconds. Then, sauté the chicken breast for 2-3 minutes, stirring occasionally.",
+           "After that, add the rice and sauté for 30 seconds. Add the wine and let evaporate. Finally, add the chicken stock, the vegetables, the salt, pepper, thyme, and bay leaf. Stir.",
+           "Bring to a boil, cover the pot, reduce the heat to low, and let simmer for approximately 12 minutes. Uncover the pot, separate eggs from the shells, and add gently into the soup, letting simmer for 8 minutes (they will be firm, not soft poached). Remove the bay leaf. Serve chicken soup warm with chopped parsley sprinkled on top. This chicken soup can also be drizzled with olive oil and sprinkled with Parmesan cheese. Garlic bread makes an excellent accompaniment. Enjoy!"
+            
+        ]
+    },
+    {
+        "name": "Couve à mineira/Collard Greens",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "couve",
+        "description": "The greens are served with almost any meal, but are often considered essential to accompany the Brazilian national dish, feijoada completa.!",
+        "prepTime": "15 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "45 minutes",
+        "servings": 4,
+        "ingredients": [
+            "1 bunch collard greens, ribs removed",
+            "2 tablespoons olive oil",
+            "½ cup diced bacon",
+            "½ onion, diced  ",
+            "2 tablespoons sea salt",
+            "3 cloves garlic, diced"
+        ],
+        "directions": [
+            "Gather collard leaves and roll into a log-shaped bundle; slice bundle crosswise into thin strips.",
+            "Bring a large pot of salted water to a boil. Add collard greens; simmer until bright green, about 10 minutes. Drain.",
+            "Heat olive oil in a large skillet over medium heat. Add bacon; cook and stir until browned, about 5 minutes. Stir in drained collard greens, onion, sea salt, and garlic; cook until flavors combine, about 10 minutes."
+        ]
+    },
+    {
+        "name": "Empadão de Palmito/Heart of palm pie",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "empadãodepalmito",
+        "description": "Empadão de palmito can be eaten anytime of your day, it is so good and yummy that people even make this recipe to serve in christmas time and weedings.!",
+        "prepTime": "10 minutes",
+        "cookTime": "50 minutes",
+        "totalTime": "60 minutes",
+        "servings": 8,
+        "ingredients": [
+            "1/2 cups flour",
+            "1 egg yolk",
+            "1 teaspoon salt",
+            "1 cup of milk",
+            "1/3 teaspoon baking powder",
+            "5 tablespoon water",
+            "For the filling 3 medium tomatoes chopped",
+            "1 large onion chopped",
+            "3 garlic cloves finely chopped",
+            "2 tins hearts of palm, drained and cut into small slices",
+            "2 tablespoon parsley chopped",
+            "1 tablespoon salt",
+            "Pinch black pepper",
+            "1 tablespoon flour to ticken"
+         ],
+        "directions": [
+            "Pastry: In a bowl, mix the flour, salt and baking powder. Add the butter and mix it well with your fingers until it looks like breadcrumbs. Add the egg yolk and the water. Knead the dough until the ingredients are integrated. Leave it to rest for 30 minutes wrapped in cling film, in the fridge.",
+            "Filling: In a pan, at medium heat, fry the onions until soft. Add the garlic to the onions and fry till light golden brown. Add the tomatoes, the salt and black pepper, and mix it well to release the juices.",
+            "Once the tomatoes are soft, add the hearts of palm and the parsley, mix it well.",
+            "Add one TBSP of plain flour, stir it.. At this point, you can break some of the hearts of palm, but leave most of them whole. Taste it and adjust the salt, if necessary.",
+            "Let it cool down, so it doesn't interact with the pastry.",
+            "Take the pastry from the fridge and cut one third. Set aside for the top later.",
+            "Stretch it with the rolling pin till around 2 mm thick. Dust some flour on it, roll it over the rolling pin, and carefully place it in the middle of the tin.",
+            "Release the edge all around, letting it fall on the bottom, then lift the sides, making a wall. It should stick to the sides.",
+            "Put the filling in, making it leveled. Cut de excess of pastry, leaving at least one centimeter above the filling.",
+            "Stretch de other part of the dough to make the cover. Place it on top, pinch it with the sides all around. Cut the excess, press and pinch both together to close it properly.",
+            "Bake it for 30 minutes at 200 degrees Celsius. And voilà! It can be eaten hot, cold and it can also be frozen for 6 months in a sealed container. Great to eat with salads. Enjoy!"
+        ]
+    },
+    {
+        "name": "Feijoada/Black bean stew",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "feijoada",
+        "description": "Feijoada, Brazil's national dish, is a stew loaded with black beans and meats of every description.!",
+        "prepTime": "25 minutes",
+        "cookTime": "2hrs 5 minutes",
+        "totalTime": "2hrs 30 minutes",
+        "servings": 8,
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "3 garlic cloves, thinly sliced",
+            "1 large onion, finely chopped  ",
+            "1 1/2 pounds dried black beans, soaked overnight and drained",
+            "3 1/2 quarts water",
+            "1 pound fresh spicy sausage, such as linguiça",
+            "3/4 pound dried beef (carne seca) or corned beef, in one piece",
+            "1 1/2 pounds smoked pork chops",
+            "3/4 pound lean slab bacon",
+            "3/4 pound chorizo, in one piece",
+            "1 dried red chile",
+            "1 teaspoon salt",
+            "Toasted Manioc Flour"
+        ],
+        "directions": [
+            "Heat the vegetable oil in a large, heavy casserole. Add the garlic and onion and cook over moderately low heat, stirring occasionally, until the onion is softened, about 7 minutes. Stir in the drained black beans. Add the water to the casserole and bring to a boil over moderately high heat. Reduce the heat to low and simmer the beans for 1 hour, stirring occasionally. Add all of the meats and the dried chile and cook until the beans are tender, about 1 hour longer.",
+           "Remove the meats from the casserole and thickly slice them; discard any bones. Pick out and discard the chile. Season the beans with salt. Ladle the beans into shallow bowls and serve with the sliced meats. Pass the Toasted Manioc Flour at the table for sprinkling over the feijoada."
+            ]
+    },
+    {
+        "name": "Farofa",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "farofa",
+        "description": "In Brazil there is not barbecue with out farofa, if you don't know what is it, you need to make it today.!",
+        "prepTime": "10 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "20 minutes",
+        "servings": 8,
+        "ingredients": [
+            "cloves garlic, chopped",
+            "1 ounces slab bacon, cut into rough dice",
+            "2 cups coarsely ground manioc flour (a.k.a. cassava flour",
+            "1  tablespoon butter",
+            "1 pinch of salt"
+            ],
+        "directions": [
+            "Mash the garlic and a few pinches of salt with the side of your knife until pasty. Place bacon in large skillet over medium heat, and let it cook, stirring, for 5 minutes, or until fully rendered and lightly browned. Add a splash of vegetable oil if there isn’t enough fat to generously coat the pan.",
+            "Turn heat down to medium-low, and cook garlic until very aromatic. Add manioc flour, and cook, stirring and shaking the pan continuously, until it’s a shade toastier and a little crunchy, 5 minutes. Turn off heat, and stir in butter. Add salt to taste. Let guests sprinkle or pile it onto their plates, to their taste."
+        ]
+    },
+    {
+        "name": "Feijão tropeiro/Tropeiro beans",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "feijãotropeiro",
+        "description": "This is a very traditional dish in Brazil, feijão tropeiro will satisfied you and it is going to make you want to have seconds!",
+        "prepTime": "7 minutes",
+        "cookTime": "13 minutes",
+        "totalTime": "20 minutes",
+        "servings": 6,
+        "ingredients": [
+            "2 15.2 oz. cans Pinto beans, drained",
+            "8 oz chopped bacon",
+            "8 oz chopped smoked sausage",
+            "1 cup of milk",
+            "4 teaspoon chopped garlic",
+            "1 small onion, diced",
+            "6 eggs",
+            "4 leaves collard greens, thinly sliced, bottom stem removed ",
+            "1 ¼ cup cassava flour (also known as yucca or manioc flour)",
+            "⅔ cup ruffly chopped parsley",
+            "2 tablespoon chopped green onion",
+            "Pork rinds, broken into pieces (optional)",
+            "1 teaspoon salt"
+        ],
+        "directions": [
+            "Place bacon in a 12 skillet, over medium heat. Once the bacon starts to render its fat, add the sausage and saute it until it starts to get some color. Add garlic and onion and saute everything until onion is soft and bacon is a little crispy.",
+            "I Push everything to one side of the pan. Crack the eggs on the other side of the pan, add a little bit of salt, and mix them until you get scrambled eggs. Then, mix together all the ingredients in the pan.",
+            "Add the sliced (chiffonade) collard greens (if using) and mix it in for about a minute. Then add the beans (no liquid) and mix it again.",
+            "Add the cassava flour, pork rinds, parsley and green onions (leave some greens to decorate the plate if you wish). Mix everything together.Enjoy it!"
+        ]
+    },
+    {
+        "name": "Mousse de limão/Lime mousse",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "moussedelimão",
+        "description": "Do you know those dessert that makes you want more and more of it? This recipe is one of those.",
+        "prepTime": "5 minutes",
+        "cookTime": "3 minutes",
+        "totalTime": "7 minutes",
+        "servings": 4,
+        "ingredients": [
+            "1 tin condensed milk",
+            "3 limes juice",
+            "1 tin heavy cream"
+        ],
+        "directions": [
+            "Pour all the ingredients in the blender and let it to blend for 3 minutes not stoped.",
+            "Take the mousse to the fregie for 2 hours or until it has a hard conistence. Enjoy it!"
+            
+        ]
+    },
+    {
+        "name": "Mousse de maracujá/Passion fruit mousse",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "moussedemaracujá",
+        "description": "This mousse is so incredible good and health, the passion fruit gives to this dessert notes of fresshness and delicious tasty, you should try to make it!",
+        "prepTime": "5 minutes",
+        "cookTime": "3 minutes",
+        "totalTime": "8 minutes",
+        "servings": 4,
+        "ingredients": [
+            "1 Tin condensed milk",
+            "1 tin heavy cream",
+            "1/2 cup concentrated passion fruit juice "
+        ],
+        "directions": [
+            "Pour all the ingredients in the blender and let it to blend for 3 minutes not stoped.",
+            "Take the mousse to the fregie for 2 hours or until it has a hard conistence. Enjoy it!"
+            
+        ]
+    },
+    {
+        "name": "Pão de queijo/Cheese balls",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "pãodequeijo",
+        "description": "Pão de queijo (pronounced pow-du-KEHjo, sort of) is probably Brazil’s most famous food export, brazilians eat pão de queijo anytime, anyday because we love it so much!",
+        "prepTime": "25 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "60 minutes",
+        "servings": 24,
+        "ingredients": [
+            "2 tablespoons butter",
+            "2 tablespoons neutral oil",
+            "3 cups sweet tapioca flour (OR 2 cups sour tapioca flour if you can find it)",
+            "1 cup of milk",
+            "2 eggs, beaten",
+            "1 pinch of salt",
+            "4 ounces grated cheese (see notes about cheese, above)"
+        ],
+        "directions": [
+            "Preheat oven to 400F.",
+            "Combine milk, butter and oil in a small pot and place over medium-high heat. Bring to boil.",
+            "Put tapioca flour and salt into mixing bowl of a stand mixer.",
+            "Pour in hot milk and mix on low until smooth. It will look soft and stringy. Once cool to touch, mix in the eggs one at a time until fully incorporated.",
+            "Mix in the cheese. **If your dough is too runny or soft to scoop, just chill it in the fridge for 30 minutes or longer to let it firm up before scooping!",
+            "Line two baking sheets with parchment and scoop the dough out by large tablespoons, spaced an inch apart. (At this point, you may freeze the tray until the balls are solid, then store the balls in a freezer bag. When ready to bake, just put frozen pao de quiejo on a baking sheet and add an extra 5 minutes to cook time. Do not thaw first.)",
+            "Bake 20-25 minutes until lightly golden and and puffed. The interiors should be soft-set and elastic, but if you want a crispier outside, leave them in for 25-30 minutes.",
+            "Eat warm right away or let cool. Leftover pao de queijo can be left to cool completely, then stored at room temperature up to 3 days. Reheat in a low oven before serving (or eat at room temp)."
+        ]
+    },
+    {
+        "name": "Pamonha/Sweet corn mush",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "pamonha",
+        "description": "If you ever visit Minas Gerais a state of Brazil you need to try pamonha, it looks like tamales but the tasty is completelly different. Try to make it.!",
+        "prepTime": "20 minutes",
+        "cookTime": "45 minutes",
+        "totalTime": "1 hr 5 minutes",
+        "servings": 8,
+        "ingredients": [
+            "½ Cup corn masa flour (Maseca) ",
+            "12 pcs - Ears of corn ",
+            "3 cups White sugar",
+            "2 cups coconut milk ",
+            "3 tablespoon grated coconut",
+            "3 tablespoon butter(melted)",
+            "1 teaspoon salt",
+            "Fresh corn husks (for wrapping)",
+            "Corn straw (for tying)"
+        ],
+        "directions": [
+            "Remove the husks from each corn and wash. In a saucepan, place the corn and add water then bring to a boil.",
+            "Let it simmer for about 3 minutes. Once cooked, drain the water and set it aside.",
+            "Using a sharp knife, cut the kernel of the corn from the cobs. Place the kernels in a blender with 1 cup of coconut milk and blend together until it forms a paste.",
+            "Add the remaining 1 cup of milk, the corn masa flour, grated coconut, sugar, butter and salt then blend again until the mixture is thick and smooth. Set aside.",
+            "Blanch the washed corn husks in boiling water for a few seconds until soft and pliable. Remove from the hot water and wash under cold running water then pat dry with a paper towel.",
+            "Cut the husks and shape them into a rectangle. Place a portion of the blended mixture in the centre of the husk and fold over the sides still in a rectangular form to enclose the corn filling.",
+            "Tie and secure the wrap with the corn straw on both sides. Repeat the same process with the remaining mixture.",
+            "In a large pot, fill it with water and bring to a boil. Place the wrapped pamonhas on the pot fully submerged in the water then cover.",
+            "Let them cook for 45 minutes until the colour of the husks turns yellowish.",
+            "Drain the pamonhas and serve."
+        ]
+    },
+    {
+        "name": "Pudim de leite/Caramel flan",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "pudimdeleite",
+        "description": "A classic Brazilian dessert made with simple, inexpensive ingredients!  Decadently creamy with an easy caramel sauce.!",
+        "prepTime": "10 minutes",
+        "cookTime": "1hour 1/2",
+        "totalTime": "1 hour 40 minutes",
+        "servings": 8,
+        "ingredients": [
+            "1 cup granulated sugar",
+            "1/4 cup water",
+            "2 14oz cans sweetened condensed",
+            "2 1/2 cups whole milk",
+            "4 eggs",
+            "1 tablespoon vanilla extract"
+        ],
+        "directions": [
+            "Place sugar and water in a small, light-colored sauce pan and stir to combine.  (The light color will make it easier to see the color/doneness of the caramel). Turn heat to medium and bring to a simmer.  Stir occasionally or gently swirl pan.  Let mixture simmer gently until it turns a golden caramel color, anywhere from about 5-10 minutes.",
+            "Pour hot caramel into a tube pan (like an angelfood cake pan- but make sure it’s a one-piece pan, not one with a removable bottom) and tilt pan so it covers the bottom and moves up the sides about 1 inch.",
+            "Place sweetened condensed milk, whole milk, eggs, and vanilla in a blender and blend until combined.  Slowly pour mixture into pan over caramel and cover pan with foil.",
+            "Place your pan in a larger pan (like a roasting pan) and place in oven.  Pour hot water into the larger pan so it goes up the sides of the tube pan at least 1/2 way.  Bake for about 1 1/2 hours.  When done, it should wiggle about the same amount as set jello and the top should be set to the touch.",
+            "Remove and let cool completely and then store in fridge overnight.  To serve, invert over a plate and then scrape as much of the remaining caramel on top as you can.  Place your pan to soak with warm water in the sink and the remaining caramel will melt right off.   Cut into wedges to serve."
+        ]
+    },
+    {
+        "name": "Paçoca",
+        "categories": "Dessert",
+        "featured": false,
+        "image" : "paçoca",
+        "description": "Paçoca is a traditional brazilian treat popular in the southeast of brasil.!",
+        "prepTime": "1 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "6 minutes",
+        "servings": 15,
+        "ingredients": [
+            "2 cups roasted unsalted peanuts",
+            "1 cup sugar",
+            "Pinch of salt"
+        ],
+        "directions": [
+            "Combine all the ingredients in the food processor. Pulse - stopping every now and then to open and stir - until the mixture is fine and resembles wet sand. Be careful not to overdo it, or you'll end up with peanut butter.",
+            "Fill a small round (or the shape of your choice) cookie cutter, firmly pressing down with your fingers until it is level and compact.",
+            "Carefully unmold, using your fingers to help each paçoca push through the cookie cutter.",
+            "Repeat with the remaining mixture to make around 15 peanut candies total.Enjoy it."
+        ]
+    },
+    {
+        "name": "Strogonoff de carne/Beef Stroganoff",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "strogonoffdecarne",
+        "description": "Strogonoff is classic brazilian dish, there is something magical in this meal that makes everybpdy love it.!",
+        "prepTime": "5 minutes",
+        "cookTime": "30 minutes",
+        "totalTime": "40 minutes",
+        "servings": 6,
+        "ingredients": [
+            "2 pounds tenderloin, cut into cubes or thin strips",
+            "4 tablespoons sweet paprika",
+            "2 tablespoons flour",
+            "Salt and pepper to taste",
+            "2 tablespoons olive oil, divided",
+            "1 tablespoon butter",
+            "2 medium onions, grated",
+            "1 cup chopped fresh mushrooms",
+            "1 tablespoon Dijon mustard",
+            "2 tablespoons ketchup",
+            "2 tablespoons Worcestershire sauce",
+            "1/4 cup cognac or brandy for flambéing, optional",
+            "1 cup peeled tomatoes from a can, juiced in the blender",
+            "3/4 cup heavy cream"
+        ],
+        "directions": [
+            "In a large bowl, combine the meat, salt, pepper, paprika and flour. Make sure the meat is well coated. Reserve.",
+            "Heat one tablespoon olive oil in a large skillet, over medium heat, and then add the butter. Once butter is melted, add the grated onion and cook until it develops some color. Remove from heat and reserve.",
+            "In that same skillet, heat the remaining olive oil. When shimmering, add the beef and brown on all sides. Remove and reserve. Add the mushrooms and cook until they release liquid and are starting to brown, about 8 minutes.",
+            "Return browned beef and onion back to the skillet. Add the Dijon mustard, ketchup and Worcestershire sauce.",
+            "If flambeing, pour the cognac in a ladle and add it to the pan. Tilt the skillet so the fumes touch the flame. Cook until the flames are extinguished and all the alcohol is gone.",
+            "Stir in the blended peeled tomatoes and cook until thickened slightly, about 5 minutes.",
+            "Add the heavy cream. Cook for another 3-5 minutes or until sauce has thickened to your preferences.Serve immediately"
+        ]
+    },
+    {
+        "name": "Vinagrete/Tomato slaw",
+        "categories": "Meal",
+        "featured": false,
+        "image" : "vinagrete",
+        "description": "A classic Brazilian dessert made with simple, inexpensive ingredients!  Decadently creamy with an easy caramel sauce.!",
+        "prepTime": "20 minutes",
+        "cookTime": "2 hours in the freegie",
+        "totalTime": "2 hours 20 minutes",
+        "servings": 8,
+        "ingredients": [
+            "5 tomatoes, diced",
+            "½ English cucumber, quartered and thinly sliced",
+            "1 red bell pepper, seeded and diced",
+            "2 1/2 cups whole milk",
+            "4½ cup diced onion",
+            "½ cup finely chopped fresh parsley",
+            "¼ cup lime juice",
+            "¼ cup olive oil",
+            "¼ cup diced green onions",
+            "¼ cup finely chopped fresh cilantro",
+            "2 tablespoons cider vinegar",
+            "salt and ground black pepper to taste"
+            ],
+        "directions": [
+            "Place sugar and water in a small, light-colored sauce pan and stir to combine.  (The light color will make it easier to see the color/doneness of the caramel). Turn heat to medium and bring to a simmer.  Stir occasionally or gently swirl pan.  Let mixture simmer gently until it turns a golden caramel color, anywhere from about 5-10 minutes.",
+            "Pour hot caramel into a tube pan (like an angelfood cake pan- but make sure it’s a one-piece pan, not one with a removable bottom) and tilt pan so it covers the bottom and moves up the sides about 1 inch.",
+            "Place sweetened condensed milk, whole milk, eggs, and vanilla in a blender and blend until combined.  Slowly pour mixture into pan over caramel and cover pan with foil.",
+            "Place your pan in a larger pan (like a roasting pan) and place in oven.  Pour hot water into the larger pan so it goes up the sides of the tube pan at least 1/2 way.  Bake for about 1 1/2 hours.  When done, it should wiggle about the same amount as set jello and the top should be set to the touch.",
+            "Remove and let cool completely and then store in fridge overnight.  To serve, invert over a plate and then scrape as much of the remaining caramel on top as you can.  Place your pan to soak with warm water in the sink and the remaining caramel will melt right off.   Cut into wedges to serve."
+        ]
+    },]
