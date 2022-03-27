@@ -803,7 +803,7 @@
   {
       "name": "Mousse de maracujá/Passion fruit mousse",
       "categories": "Dessert",
-      "featured": false,
+      "featured": true,
       "image" : "moussedemaracujá",
       "description": "This mousse is so incredible good and health, the passion fruit gives to this dessert notes of fresshness and delicious tasty, you should try to make it!",
       "prepTime": "5 minutes",
@@ -829,7 +829,7 @@
   {
       "name": "Picanha barbecue",
       "categories": "Meal",
-      "featured": false,
+      "featured": true,
       "image" : "picanha",
       "description": "If you want to make a barbecue taht is known all over the world and it is also very simple, this is the perfect recipe for you!",
       "prepTime": "30 minutes",
@@ -854,7 +854,7 @@
   {
       "name": "Pão de queijo/Cheese balls",
       "categories": "Meal",
-      "featured": false,
+      "featured": true,
       "image" : "pãodequeijo",
       "description": "Pão de queijo (pronounced pow-du-KEHjo, sort of) is probably Brazil’s most famous food export, brazilians eat pão de queijo anytime, anyday because we love it so much!",
       "prepTime": "25 minutes",
@@ -928,7 +928,7 @@
   {
       "name": "Pudim de leite/Caramel flan",
       "categories": "Dessert",
-      "featured": false,
+      "featured": true,
       "image" : "pudimdeleite",
       "description": "A classic Brazilian dessert made with simple, inexpensive ingredients!  Decadently creamy with an easy caramel sauce.!",
       "prepTime": "10 minutes",
@@ -986,7 +986,7 @@
   {
       "name": "Strogonoff de carne/Beef Stroganoff",
       "categories": "Meal",
-      "featured": false,
+      "featured": true,
       "image" : "strogonoffdecarne",
       "description": "Strogonoff is classic brazilian dish, there is something magical in this meal that makes everybpdy love it.!",
       "prepTime": "5 minutes",
