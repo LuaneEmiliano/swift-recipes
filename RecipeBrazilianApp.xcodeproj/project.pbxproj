@@ -18,6 +18,7 @@
 		6B58917027EE561100C9F847 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B58916F27EE561100C9F847 /* RecipeTabView.swift */; };
 		6BBAFF1B27EFC80000F0C9BD /* recipes.json in Resources */ = {isa = PBXBuildFile; fileRef = 6BBAFF1A27EFC80000F0C9BD /* recipes.json */; };
 		6BBAFF1D27F0BB5F00F0C9BD /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BBAFF1C27F0BB5F00F0C9BD /* RecipeFeaturedView.swift */; };
+		6BBAFF2027F0F28700F0C9BD /* Rational.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BBAFF1F27F0F28700F0C9BD /* Rational.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		6B58916F27EE561100C9F847 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		6BBAFF1A27EFC80000F0C9BD /* recipes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = recipes.json; sourceTree = "<group>"; };
 		6BBAFF1C27F0BB5F00F0C9BD /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
+		6BBAFF1F27F0F28700F0C9BD /* Rational.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rational.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 		6B58915127EA3EBC00C9F847 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				6BBAFF1F27F0F28700F0C9BD /* Rational.swift */,
 				6B58915627EA3EBC00C9F847 /* Assets.xcassets */,
 				6B58915827EA3EBC00C9F847 /* Preview Content */,
 			);
@@ -201,6 +204,7 @@
 			files = (
 				6B58916727EE052E00C9F847 /* Recipe.swift in Sources */,
 				6B58916E27EE193100C9F847 /* RecipeDetailView.swift in Sources */,
+				6BBAFF2027F0F28700F0C9BD /* Rational.swift in Sources */,
 				6B58916927EE05AD00C9F847 /* RecipeModel.swift in Sources */,
 				6B58915527EA3EBC00C9F847 /* RecipeListView.swift in Sources */,
 				6B58915327EA3EBC00C9F847 /* RecipeBrazilianApp.swift in Sources */,
