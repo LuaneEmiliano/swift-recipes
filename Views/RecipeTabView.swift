@@ -28,11 +28,13 @@ struct RecipeTabView: View {
                         Text("List")
                 }
             }
+//            
+
         }
         .environmentObject(RecipeModel())
-    }
-}
-
+        }
+      }
+ 
 struct RecipeTabView_Previews: PreviewProvider {
     static var previews: some View {
         RecipeTabView()

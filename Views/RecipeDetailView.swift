@@ -28,9 +28,10 @@ struct RecipeDetailView: View {
                 //MARK: Recipe title
                 Text(recipe.name)
                     .bold()
-                    .padding(.top,20)
+                    .multilineTextAlignment(.leading)
+                    .padding(.top,5)
                     .padding(.leading)
-                    .font(.largeTitle)
+                    .font(.title)
                     
                 
                 //MARK: Serving size picker

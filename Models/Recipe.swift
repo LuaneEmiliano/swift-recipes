@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import SwiftUI
 
 class Recipe: Identifiable, Decodable{
     
@@ -20,8 +21,12 @@ class Recipe: Identifiable, Decodable{
     var totalTime:String
     var servings: Int
     var highlights:[String]
-    var ingredients:[Ingredient]
+    var ingredients: [Ingredient]
     var directions:[String]
+    
+ 
+   
+   
     
 }
 class Ingredient: Identifiable, Decodable {
@@ -32,3 +37,4 @@ class Ingredient: Identifiable, Decodable {
     var denom: Int?
     var unit: String?
 }
+

@@ -1,5 +1,5 @@
 [  {
-      "name": " Arroz branco/Traditional rice",
+      "name": " Arroz branco Traditional rice",
       "categories": "Meal",
       "featured": false,
       "image" : "arrozbranco",
@@ -28,7 +28,7 @@
       ]
   },
       {
-      "name": "Arroz Carreteiro/Wagnore's rice",
+      "name": "Arroz Carreteiro Wagnore's rice",
       "categories": "Meal",
       "featured": false,
       "image" : "arrozcarreteiro",
@@ -62,7 +62,7 @@
       ]
   },
   {
-      "name": "Arroz Doce/Sweet rice",
+      "name": "Arroz Doce Sweet rice",
       "categories": "Meal",
       "featured": false,
       "image" : "arrozdoce",
@@ -124,7 +124,7 @@
       ]
   },
   {
-      "name": "Brigadeiro/Fudge balls",
+      "name": "Brigadeiro Fudge balls",
       "categories": "Dessert",
       "featured": false,
       "image" : "brigadeiro",
@@ -153,7 +153,7 @@
       ]
   },
   {
-      "name": "Bolo de rolo/Rolled cake",
+      "name": "Bolo de rolo Rolled cake",
       "categories": "Dessert",
       "featured": false,
       "image" : "boloderolo",
@@ -187,7 +187,7 @@
       ]
   },
   {
-      "name": "Broa de milho/Corn cake",
+      "name": "Broa de milho Corn cake",
       "categories": "Dessert",
       "featured": false,
       "image" : "broademilho",
@@ -217,7 +217,7 @@
       ]
   },
   {
-      "name": "Bolo de cenoura/Carrot cake",
+      "name": "Bolo de cenoura Carrot cake",
       "categories": "Dessert",
       "featured": false,
       "image" : "bolodecenoura",
@@ -252,7 +252,7 @@
       ]
   },
   {
-      "name": "Bolo de chocolate/Chocolate cake",
+      "name": "Bolo de chocolate Chocolate cake",
       "categories": "Dessert",
       "featured": false,
       "image" : "bolodechocolate",
@@ -286,7 +286,7 @@
       ]
   },
   {
-      "name": "Bolo de laranja/Orange cake",
+      "name": "Bolo de laranja Orange cake",
       "categories": "Dessert",
       "featured": false,
       "image" : "bolodelaranja",
@@ -322,7 +322,7 @@
       ]
   },
   {
-      "name": "Bolo de fuba/Cormeal cake",
+      "name": "Bolo de fuba Cormeal cake",
       "categories": "Dessert",
       "featured": false,
       "image" : "bolodefuba",
@@ -353,7 +353,7 @@
       ]
   },
   {
-      "name": "Bolinho de chuva/Cinnamon raindrop",
+      "name": "Bolinho de chuva Cinnamon raindrop",
       "categories": "Dessert",
       "featured": false,
       "image" : "bolinhodechuva",
@@ -391,7 +391,7 @@
       ]
   },
   {
-      "name": "Banana á milanesa/Fried banana",
+      "name": "Banana á milanesa Fried banana",
       "categories": "Meal",
       "featured": false,
       "image" : "banana",
@@ -419,7 +419,7 @@
       ]
   },
   {
-      "name": "Beijinho/Coconut little kiss",
+      "name": "Beijinho Coconut little kiss",
       "categories": "Dessert",
       "featured": false,
       "image" : "beijinho",
@@ -446,7 +446,7 @@
       ]
   },
   {
-      "name": "Coxinha/Chicken crockets",
+      "name": "Coxinha Chicken crockets",
       "categories": "Meal",
       "featured": false,
       "image" : "coxinha",
@@ -490,7 +490,7 @@
       ]
   },
   {
-      "name": "Cachorro Quente/Hot dog",
+      "name": "Cachorro Quente Hot dog",
       "categories": "Meal",
       "featured": false,
       "image" : "cachorroquente",
@@ -529,7 +529,7 @@
       ]
   },
   {
-      "name": "Canjica/Hominy Pudding ",
+      "name": "Canjica Hominy Pudding ",
       "categories": "Dessert",
       "featured": false,
       "image" : "canjica",
@@ -561,7 +561,7 @@
       ]
   },
   {
-      "name": "Canja de galinha/ Chicken soup",
+      "name": "Canja de galinha Chicken soup",
       "categories": "Meal",
       "featured": false,
       "image" : "canjadegalinha",
@@ -603,7 +603,7 @@
       ]
   },
   {
-      "name": "Couve à mineira/Collard Greens",
+      "name": "Couve à mineira Collard Greens",
       "categories": "Meal",
       "featured": false,
       "image" : "couve",
@@ -632,7 +632,7 @@
       ]
   },
   {
-      "name": "Empadão de Palmito/Heart of palm pie",
+      "name": "Empadão de Palmito Heart of palm pie",
       "categories": "Meal",
       "featured": false,
       "image" : "empadãodepalmito",
@@ -676,7 +676,7 @@
       ]
   },
   {
-      "name": "Feijoada/Black bean stew",
+      "name": "Feijoada Black bean stew",
       "categories": "Meal",
       "featured": false,
       "image" : "feijoada",
@@ -738,7 +738,7 @@
       ]
   },
   {
-      "name": "Feijão tropeiro/Tropeiro beans",
+      "name": "Feijão tropeiro Tropeiro beans",
       "categories": "Meal",
       "featured": false,
       "image" : "feijãotropeiro",
@@ -775,7 +775,7 @@
       ]
   },
   {
-      "name": "Mousse de limão/Lime mousse",
+      "name": "Mousse de limão Lime mousse",
       "categories": "Dessert",
       "featured": false,
       "image" : "moussedelimão",
@@ -801,7 +801,7 @@
       ]
   },
   {
-      "name": "Mousse de maracujá/Passion fruit mousse",
+      "name": "Mousse de maracujá Passion fruit mousse",
       "categories": "Dessert",
       "featured": true,
       "image" : "moussedemaracujá",
@@ -827,7 +827,7 @@
       ]
   },
   {
-      "name": "Picanha barbecue",
+      "name": "Picanha Sirloin cap",
       "categories": "Meal",
       "featured": true,
       "image" : "picanha",
@@ -852,7 +852,7 @@
       ]
   },
   {
-      "name": "Pão de queijo/Cheese balls",
+      "name": "Pão de queijo Cheese balls",
       "categories": "Meal",
       "featured": true,
       "image" : "pãodequeijo",
@@ -887,7 +887,7 @@
       ]
   },
   {
-      "name": "Pamonha/Sweet corn mush",
+      "name": "Pamonha Sweet corn mush",
       "categories": "Meal",
       "featured": false,
       "image" : "pamonha",
@@ -926,7 +926,7 @@
       ]
   },
   {
-      "name": "Pudim de leite/Caramel flan",
+      "name": "Pudim de leite Caramel flan",
       "categories": "Dessert",
       "featured": true,
       "image" : "pudimdeleite",
@@ -984,7 +984,7 @@
       ]
   },
   {
-      "name": "Strogonoff de carne/Beef Stroganoff",
+      "name": "Strogonoff de carne Beef Stroganoff",
       "categories": "Meal",
       "featured": true,
       "image" : "strogonoffdecarne",
@@ -1026,7 +1026,7 @@
       ]
   },
   {
-      "name": "Vinagrete/Tomato slaw",
+      "name": "Vinagrete Tomato slaw",
       "categories": "Meal",
       "featured": false,
       "image" : "vinagrete",
